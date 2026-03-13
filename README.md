@@ -1,4 +1,4 @@
-# OWASP Top 10 Learning Repository
+# OWASP Top 10 Study Repository
 
 This repository documents my learning process while studying **web application security vulnerabilities** from the OWASP Top 10 list.
 
@@ -24,7 +24,7 @@ This project contains my notes, screenshots, and explanations of the vulnerabili
 
 ## Repository Structure
 
-owasp-top10-learning
+owasp-top10-study
 │
 ├── README.md
 ├── labs
@@ -33,7 +33,7 @@ owasp-top10-learning
 │   └── authentication.md
 │
 ├── images
-│   ├── broken-access-control.png
+│   ├── 01-broken-access-control.jpg
 │   ├── injection.png
 │   └── authentication.png
 
