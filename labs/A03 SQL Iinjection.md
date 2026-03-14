@@ -27,7 +27,8 @@ This allows the attacker to execute arbitrary commands on the server.
 
 ## Exploitation Steps
 
-## 
+##  Performed in THM
+![SQL Injection Lab](../images/03-sql-injection.jpg)
 
 ### Step 1 – Access the Web Application
 
