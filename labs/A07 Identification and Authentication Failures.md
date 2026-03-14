@@ -34,7 +34,7 @@ By registering an account and manipulating the login behavior, an attacker can i
 
 ## Performed in THM
 
-![Identification and Authentication Failures Lab](../images/07-identification-authentication-failures.jpg)
+![Identification and Authentication Failures Lab](../images/07-identification-and-authentication-failures.jpg)
 
 ### Step 1 — Deploy the machine
 
