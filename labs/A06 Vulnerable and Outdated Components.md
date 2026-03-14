@@ -33,7 +33,7 @@ In this lab, **Online Book Store 1.0** has an **Unauthenticated Remote Code Exec
 
 ## Performed in THM
 
-![Vulnerable and Outdated Components Lab](../images/02-vulnerable-outdated-comp.jpg)
+![Vulnerable and Outdated Components Lab](../images/02-vulnerable-and-outdated-comp.jpg)
 
 ### Step 1 — Deploy the machine
 
