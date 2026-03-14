@@ -1,56 +1,39 @@
-# OWASP Top 10 Study Repository
+# OWASP Top 10 Security Labs
 
-This repository documents my learning process while studying **web application security vulnerabilities** from the OWASP Top 10 list.
+This repository documents my learning journey in **web application security** through practical exploration of vulnerabilities from the OWASP Top 10 (2021).
 
-The labs and demonstrations were completed using the TryHackMe cybersecurity learning platform.
-This project contains my notes, screenshots, and explanations of the vulnerabilities.
+The labs and demonstrations were completed using the TryHackMe cybersecurity learning platform.  
+Each section includes explanations, screenshots, and step-by-step demonstrations showing how these vulnerabilities work and how they can be mitigated.
+
+The goal of this project is to build practical understanding of common web security risks and learn how attackers exploit insecure web applications.
 
 ---
 
 ## Topics Covered
 
-1. Broken Access Control
-2. Cryptographic Failures
-3. Injection
-4. Insecure Design
-5. Security Misconfiguration
-6. Vulnerable and Outdated Components
-7. Identification and Authentication Failures
-8. Software and Data Integrity Failures
-9. Security Logging and Monitoring Failures
-10. Server Side Request Forgery (SSRF)
+1. Broken Access Control  
+2. Cryptographic Failures  
+3. Injection  
+4. Insecure Design  
+5. Security Misconfiguration  
+6. Vulnerable and Outdated Components  
+7. Identification and Authentication Failures  
+8. Software and Data Integrity Failures  
+9. Security Logging and Monitoring Failures  
+10. Server-Side Request Forgery (SSRF)
 
 ---
 
-## Repository Structure
+## Learning Objectives
 
-owasp-top10-learning
-│
-├── README.md
-│
-├── labs
-│   ├── 01-broken-access-control.md
-│   ├── 02-cryptographic-failures.md
-│   ├── 03-injection.md
-│   ├── 04-insecure-design.md
-│   ├── 05-security-misconfiguration.md
-│   ├── 06-vulnerable-and-outdated-components.md
-│   ├── 07-identification-and-authentication-failures.md
-│   ├── 08-software-and-data-integrity-failures.md
-│   ├── 09-security-logging-and-monitoring-failures.md
-│   └── 10-server-side-request-forgery.md
-│
-└── images
-    ├── 01-broken-access-control.jpg
-    ├── 02-cryptographic-failures.jpg
-    ├── 03-injection.jpg
-    ├── 04-insecure-design.jpg
-    ├── 05-security-misconfiguration.jpg
-    ├── 06-vulnerable-outdated-components.jpg
-    ├── 07-identification-authentication-failures.jpg
-    ├── 08-software-data-integrity-failures.jpg
-    ├── 09-security-logging-monitoring-failures.jpg
-    └── 10-server-side-request-forgery.jpg
+- Understand common web application vulnerabilities
+- Learn how these vulnerabilities can be exploited
+- Study mitigation techniques and secure development practices
+- Document practical cybersecurity lab exercises
+
 ---
 
+## Disclaimer
 
+This repository is created for **educational purposes only**.  
+All labs were performed in controlled environments provided by the TryHackMe platform.
