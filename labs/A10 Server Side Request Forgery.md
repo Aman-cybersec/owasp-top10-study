@@ -41,6 +41,10 @@ Since the application does not properly validate this parameter, an attacker can
 
 ## Exploitation / Analysis Steps
 
+## Performed in THM
+
+![Server Side Request Forgery Lab](../images/10-server-side-request-forgery(SSRF).jpg)
+
 ### Step 1 — Explore the website
 
 Open the target website:
