@@ -24,19 +24,33 @@ This project contains my notes, screenshots, and explanations of the vulnerabili
 
 ## Repository Structure
 
-owasp-top10-study
+owasp-top10-learning
 │
 ├── README.md
-├── labs
-│   ├── broken-access-control.md
-│   ├── injection.md
-│   └── authentication.md
 │
-├── images
-│   ├── 01-broken-access-control.jpg
-│   ├── injection.png
-│   └── authentication.png
-
+├── labs
+│   ├── 01-broken-access-control.md
+│   ├── 02-cryptographic-failures.md
+│   ├── 03-injection.md
+│   ├── 04-insecure-design.md
+│   ├── 05-security-misconfiguration.md
+│   ├── 06-vulnerable-and-outdated-components.md
+│   ├── 07-identification-and-authentication-failures.md
+│   ├── 08-software-and-data-integrity-failures.md
+│   ├── 09-security-logging-and-monitoring-failures.md
+│   └── 10-server-side-request-forgery.md
+│
+└── images
+    ├── 01-broken-access-control.jpg
+    ├── 02-cryptographic-failures.jpg
+    ├── 03-injection.jpg
+    ├── 04-insecure-design.jpg
+    ├── 05-security-misconfiguration.jpg
+    ├── 06-vulnerable-outdated-components.jpg
+    ├── 07-identification-authentication-failures.jpg
+    ├── 08-software-data-integrity-failures.jpg
+    ├── 09-security-logging-monitoring-failures.jpg
+    └── 10-server-side-request-forgery.jpg
 ---
 
 
