@@ -44,10 +44,9 @@ Open the application in a browser.
 
 Example:
 
----
+```
 http://10.10.61.68:8088/
-
----
+```
 
 The web page displays a login interface.
 
@@ -59,14 +58,14 @@ Click the **Register** button to create a new account.
 
 Example credentials:
 
----
+```
 Username: darren
 Email: kumar@gmail.com
 
----
+
 
 Password: )4Jjqqqav@=;qH:2|
-
+```
 
 After registration, log in using the created account.
 
@@ -90,10 +89,9 @@ The page reveals the first flag.
 
 The flag visible on the page is:
 
----
+```
 fe86079416a21a3c99937fea8874b667
-
----
+```
 
 
 Submit the flag in the TryHackMe interface.
@@ -115,8 +113,9 @@ The application allows access due to improper authentication validation.
 
 After logging in as **arthur**, another flag becomes visible:
 
-
+```
 d9ac0f7db4fda460ac3edeb75d75e16e
+```
 
 Submit the flag to complete the lab.
 
