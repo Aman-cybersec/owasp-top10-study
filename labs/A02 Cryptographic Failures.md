@@ -109,7 +109,8 @@ Use the credentials:
 
 After logging in successfully, the application displays the flag.
 
-##Flag
+**Flag**
+
 THM{Yzc2YjdkMjE5N2VjMzNhOTE3NjdiMjdl}
 
 ---
