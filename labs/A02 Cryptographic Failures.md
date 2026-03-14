@@ -28,6 +28,10 @@ This hint suggested checking the /assets directory.
 
 ## Exploitation Steps:
 
+## Performed in THM
+
+![Cryptographic Failures]( ../images/02-cryptographic-failures.jpg)
+
 ## Step 1 — Access the Web Application
 
 Open the provided target address in the browser.
