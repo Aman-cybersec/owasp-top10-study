@@ -33,7 +33,7 @@ These patterns may indicate an ongoing attack.
 
 ## Lab Screenshot
 
-![Security Logging and Monitoring Failures](images/security-logging-and-monitoring-failures.jpg)
+![Security Logging and Monitoring Failures](images/09-security-logging-and-monitoring-failures.jpg)
 
 ---
 
