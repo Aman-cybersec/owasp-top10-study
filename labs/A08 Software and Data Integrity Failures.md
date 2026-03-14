@@ -32,6 +32,10 @@ Another common issue occurs with **JWT authentication tokens**. If JWT tokens ar
 
 ## Exploitation Steps
 
+## Performed in THM
+
+![Software Integrity Failures Lab](../images/08-software-and-data-integrity-failures.jpg)
+
 
 ### Step 1 — Identify external resource
 
@@ -84,6 +88,9 @@ This ensures the browser verifies the file before executing it.
 # Part 2 — JWT Token Manipulation
 
 ## Exploitation Steps
+
+![Data Integrity Failures Lab](../images/08-data-integrity-failures.jpg)
+
 
 ### Step 1 — Open the vulnerable application
 
